@@ -1,0 +1,1 @@
+program creates and manages a simple list of items, where each item points to the next one in the list, like a chain. You can add items to the end of the list, remove them by their position, and find out what’s at any spot. The program can also check if the list is empty, show the first and last items, and even reverse the order of everything in the list.
